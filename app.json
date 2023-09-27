@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "check-lostapp",
+    "slug": "check-lostapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
